@@ -129,17 +129,17 @@ With a proven record of developing automated data pipelines, building ML models,
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=obinnakenan&show_icons=true&theme=radical) 
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=obinnakenan&show_icons=true&theme=tokyonight) 
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=obinnakenan&theme=radical) 
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=obinnakenan&theme=tokyonight) 
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=obinnakenan&layout=compact&theme=radical) 
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=obinnakenan&layout=compact&theme=tokyonight) 
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![Obinna's Trophies](https://github-profile-trophy.screw-hand.vercel.app/?username=obinnakenan&theme=radical)
+![Obinna's Trophies](https://github-profile-trophy.screw-hand.vercel.app/?username=obinnakenan&theme=tokyonight)
 
 ---
 
