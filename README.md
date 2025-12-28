@@ -139,7 +139,7 @@ With a proven record of developing automated data pipelines, building ML models,
 
 ## 🏆 GitHub Trophies
 
-[![Obinna's Trophies](https://github-profile-trophy.screw-hand.vercel.app/?username=obinnakenan&theme=radical)]
+![Obinna's Trophies](https://github-profile-trophy.screw-hand.vercel.app/?username=obinnakenan&theme=radical)
 
 ---
 
