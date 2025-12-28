@@ -129,8 +129,11 @@ With a proven record of developing automated data pipelines, building ML models,
 
 ## 📊 GitHub Stats
 
-![Obinna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=obinnakenan&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=obinnakenan&layout=compact&theme=tokyonight)  
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=obinnakenan&show_icons=true&theme=radical) 
+
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=obinnakenan&theme=radical) 
+
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=obinnakenan&layout=compact&theme=radical) 
 
 ---
 
