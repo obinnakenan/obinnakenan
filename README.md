@@ -71,7 +71,7 @@ With a proven record of developing automated data pipelines, building ML models,
 
 ---
 
-### 🧾 **IT Auditor**  
+### 🧾 **Auditor**  
 *SIAO Partners, Nigeria* (Jul 2018 – Aug 2021)
 - Resolved audit software issues with 85% success rate without escalation.  
 - Led major IT audit engagements achieving 95% compliance.  
