@@ -50,7 +50,7 @@ With a proven record of developing automated data pipelines, building ML models,
 - Engineered automated data pipelines for large-scale analytics.  
 - Designed and deployed interactive data visualization web apps.  
 - Built ML pipelines forecasting regional vulnerabilities across economic and environmental metrics.  
-- Utilized HPC environments on Linux for efficient, scalable computation.  
+- Utilized HPC environments on Linux for efficient, and scalable computation.  
 
 ---
 
