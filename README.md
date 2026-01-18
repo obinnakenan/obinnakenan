@@ -54,6 +54,15 @@ With a proven record of developing automated data pipelines, building ML models,
 
 ---
 
+###  **Senior Technical Product Lead**  
+*LiteFI* (Jan 2023 – Present)
+- Developed and led LiteFi’s end-to-end digital lending platform, designing and optimising web based loan systems and core
+infrastructure supporting multiple fintech products.  
+- Developed and owned mission critical fintech systems enabling secure onboarding, real-time loan origination, automated
+credit assessment, and scalable delivery of lending and investment products through LiteFi Wealth.  
+
+---
+
 ### 🤖 **AI Data Specialist**  
 *Appen, United Kingdom* (Jul 2023 – Jul 2024)
 - Collected, labeled, and organized datasets to improve ML model accuracy.  
