@@ -9,8 +9,11 @@
 
 ## 🚀 About Me
 
-I’m an experienced **AI and Data Analyst** passionate about transforming complex datasets into actionable insights that drive innovation and informed decisions. My expertise spans **machine learning**, **predictive modeling**, **sentiment analysis**, and **data visualization** , combining technical depth with research excellence.
-With a proven record of developing automated data pipelines, building ML models, and delivering high-impact dashboards, I bring analytical precision and creativity to every project I work on.
+Senior AI and Digital Systems Specialist with strong experience delivering production grade AI, data analytics, and fintech
+platforms across academic, industry, and public interest environments. Proven track record in developing scalable digital
+systems, applied machine learning pipelines, and data driven products supporting financial services, sustainability, and policy
+decision-making. Recognised for independent technical leadership, expert assessment, and contributions to the UK digital
+technology ecosystem.
 
 ---
 
