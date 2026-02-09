@@ -13,7 +13,7 @@ Senior AI and Digital Systems Specialist with strong experience delivering produ
 platforms across academic, industry, and public interest environments. Proven track record in developing scalable digital
 systems, applied machine learning pipelines, and data driven products supporting financial services, sustainability, and policy
 decision making. Recognised for independent technical leadership, expert assessment, and contributions to the UK digital
-technology ecosystem
+technology ecosystem.
 
 ---
 
