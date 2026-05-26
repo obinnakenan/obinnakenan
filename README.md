@@ -57,13 +57,6 @@ technology ecosystem.
 
 ---
 
-###  **Senior Technical Product Lead**  
-*LiteFI* (Jan 2023 – Present)
-- Developed and led LiteFi’s end-to-end digital lending platform, designing and optimising web based loan systems and core
-infrastructure supporting multiple fintech products.  
-- Developed and owned mission critical fintech systems enabling secure onboarding, real-time loan origination, automated
-credit assessment, and scalable delivery of lending and investment products through LiteFi Wealth.  
-
 ---
 
 ### 🤖 **AI Data Specialist**  
