@@ -55,9 +55,6 @@ technology ecosystem.
 - Built ML pipelines forecasting regional vulnerabilities across economic and environmental metrics.  
 - Utilized HPC environments on Linux for efficient, and scalable computation.  
 
----
-
----
 
 ### 🤖 **AI Data Specialist**  
 *Appen, United Kingdom* (Jul 2023 – Jul 2024)
